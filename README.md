@@ -14,4 +14,4 @@ gautam.kartik05@gmail.com
 ******************* */
 
 ### Feel free to contribute.
-### This is only for educational purposes, i am in way responsible for any kind misuse of this bot.
+### This is only for educational purposes, i am in no way responsible for any kind misuse of this bot.
